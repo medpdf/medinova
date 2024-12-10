@@ -1,4 +1,13 @@
 # medinova
+/medical-bookstore
+    /index.html        <-- Homepage
+    /product.html      <-- Book details page
+    /cart.html         <-- Cart page
+    /checkout.html     <-- Checkout page
+    /styles.css        <-- Styling for all pages
+    /script.js         <-- JS for interaction
+    /images/            <-- Images for books, logo, etc.
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
